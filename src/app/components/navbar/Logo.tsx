@@ -8,7 +8,7 @@ import { useRouter } from "next/router"
 const Logo = () => {
   return (
     <Image 
-    src={""}
+    src={"/images/logo.png"}
     alt= "logo"
     className="hidden md:block cursor-pointer"
     height={100}
